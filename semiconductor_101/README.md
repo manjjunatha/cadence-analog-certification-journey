@@ -43,6 +43,10 @@ A strong foundation in semiconductor physics is essential for:
 - Gain stage analysis
 - Stability and performance evaluation
 
+## Credential
+
+[![Semiconductor 101 Badge](badge.png)](https://www.credly.com/badges/97381a14-b9f3-420f-b29a-0def9c5a3899/public_url)
+
 ## Next Module
 
 Virtuoso Schematic Editor S1 – Creating Design Schematics
