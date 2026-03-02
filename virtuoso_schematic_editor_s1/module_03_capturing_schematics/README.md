@@ -27,7 +27,7 @@ This structure ensures NAND logic functionality.
 | 1 | 1 | 0 |
 
 ---
-
+![NAND Schematic](nand_schematic.png)
 ## Learning Outcome
 
 - Understood CMOS logic implementation at transistor level
