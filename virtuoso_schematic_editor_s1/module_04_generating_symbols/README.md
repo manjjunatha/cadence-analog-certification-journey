@@ -23,7 +23,7 @@ To create a reusable symbol from the NAND schematic.
 - Simplifies top-level testbench construction
 
 ---
-
+![NAND Symbol](nand_symbol.png)
 ## Learning Outcome
 
 Symbol generation is essential for modular and scalable IC design.
